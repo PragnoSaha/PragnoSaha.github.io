@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body
+{
+color:white;
+ background-color:black;
+ }
+h1
+{
+border-width:4px;
+border-color: #C0C0C0
+border-style:double;
+color:black;
+background-color:yellow;
+front-family: Verdana, sans-serif; 
+}
+p
+{
+color:#CCFF66;
+font-family:Geneva,Calibri, sans-serif;
+font-size:1.5em;
+}
+a
+{
+color:#FF6600;
+font-family: Tahoma,sans-serif;
+}
+ul
+{
+list-style-type: circle;
+}
+strong
+{
+font-weight: normal; 
+color:#FF0000;
+}
+iframe
+{
+border-width: 8px;
+border-color: #C0C0C0;
+border-color: outset;
+}
